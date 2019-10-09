@@ -1,0 +1,1 @@
+g++ server.cpp -o server.exe -l ws2_32 -static-libgcc
